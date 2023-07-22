@@ -15,16 +15,35 @@ This repository is designed to provide you with a set of intermediate-level C pr
 ## Exercises
 Here is a list of intermediate-level exercises included in this repository:
 
-1. Exercise 2.1: Write a C program to find the nth Fibonacci number using recursion.
-2. Exercise 2.2: Write a C program to reverse a singly linked list.
-3. Exercise 2.3: Write a C program to find the prime factors of a given number and display them.
-4. Exercise 2.4: Write a C program to merge two sorted arrays into a single sorted array.
-5. Exercise 2.5: Write a C program to implement a binary search algorithm.
-6. Exercise 2.6: Write a C program to convert an infix arithmetic expression to its equivalent postfix expression.
-7. Exercise 2.7: Write a C program to implement a stack data structure.
-8. Exercise 2.8: Write a C program to implement a queue data structure.
-9. Exercise 2.9: Write a C program to find the longest common subsequence of two given strings using dynamic programming.
-10. Exercise 2.10: Write a C program to implement a binary tree and perform operations like insertion, deletion, and traversal.
+Exercise 2.1: 
+Write a C program to find the nth Fibonacci number using recursion.
+
+Exercise 2.2: 
+Write a C program to reverse a singly linked list.
+
+Exercise 2.3: 
+Write a C program to find the prime factors of a given number and display them.
+
+Exercise 2.4: 
+Write a C program to merge two sorted arrays into a single sorted array.
+
+Exercise 2.5: 
+Write a C program to implement a binary search algorithm.
+
+Exercise 2.6: 
+Write a C program to convert an infix arithmetic expression to its equivalent postfix expression.
+
+Exercise 2.7: 
+Write a C program to implement a stack data structure.
+
+Exercise 2.8: 
+Write a C program to implement a queue data structure.
+
+Exercise 2.9: 
+Write a C program to find the longest common subsequence of two given strings using dynamic programming.
+
+Exercise 2.10:
+Write a C program to implement a binary tree and perform operations like insertion, deletion, and traversal.
 
 Each exercise is accompanied by a description that outlines the task or problem to solve. You will also find a corresponding solution file for each exercise.
 
