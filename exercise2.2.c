@@ -81,8 +81,8 @@ void FreeLinkedList(node *list)
 {
     while (list != NULL)
     {
-        node *nextNode = list->next;
+        node *NextNode = list->next;
         free(list); // Free the current node
-        list = nextNode;
+        list = NextNode;
     }
 }
